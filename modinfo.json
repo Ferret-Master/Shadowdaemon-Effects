@@ -1,0 +1,18 @@
+{
+    "context": "client",
+    "identifier": "com.pa.ferretmaster.shadowEffects",
+    "display_name": "Shadowdaemon Commander Effects",
+    "description": "Adds fancy effects to the Shadowdaemon commander, made to celebrate TheClump getting to gold",
+    "author": "Ferretmaster",
+    "version": "1.0",
+    "build": "120799",
+    "date": "2024-07-04",
+    "signature": "not yet implemented",
+    "forum": "",
+    "icon": "https://raw.githubusercontent.com/Ferret-Master/Shadowdaemon-Effects/main/shadowdaemon_icon.PNG",
+    "priority": 100,
+    "category": [
+        "titans","classic", "in-game","ui","fx"
+    ]
+ 
+}
